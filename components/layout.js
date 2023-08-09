@@ -5,7 +5,7 @@ import styles from "./layout.module.css";
 import Link from "next/link";
 
 const name = "Tyler Stambaugh";
-export const siteTitle = "Next.js Sample Website";
+export const siteTitle = "Smash Fruit";
 
 export default function Layout({ children, home }) {
   return (
